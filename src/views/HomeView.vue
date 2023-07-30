@@ -11,3 +11,4 @@ const router = useRouter()
   <div>age:{{ route.params.age }}</div>
   <button @click="router.back()">prev返回</button>
 </template>
+test
